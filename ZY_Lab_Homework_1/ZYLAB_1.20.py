@@ -1,3 +1,4 @@
+#Katheryn Busch PSID: 1868948
 userNum = int(input("Enter integer:\n"))
 userNumSquared = userNum * userNum
 userNumCubed = userNum * userNum * userNum
