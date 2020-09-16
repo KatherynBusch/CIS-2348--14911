@@ -1,3 +1,4 @@
+#Katheryn Busch PSID: 1868948
 lemon = float(input('Enter amount of lemon juice (in cups):\n'))
 water = float(input('Enter amount of water (in cups):\n'))
 agave = float(input('Enter amount of agave nectar (in cups):\n'))
