@@ -1,4 +1,4 @@
-
+#Katheryn Busch PSID: 1868948
 wallHeight = int(input("Enter wall height (feet):\n"))
 
 wallWidth = int(input("Enter wall width (feet):\n"))
