@@ -1,3 +1,5 @@
+# Katheryn Busch PSID: 1868948
+
 class FoodItem:
     def __init__(self, name="None", fat=0.0, carb=0.0, protein=0.0):
         self.name = name
