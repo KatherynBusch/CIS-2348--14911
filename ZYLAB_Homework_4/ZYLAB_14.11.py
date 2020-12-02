@@ -1,3 +1,4 @@
+Katheryn Busch PSID: 1868948
 def selection_sort_descend_trace(lst):
     for k in range(len(lst) - 1):
         valueLarge = k
